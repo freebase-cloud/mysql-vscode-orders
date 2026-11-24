@@ -1,0 +1,7 @@
+{
+  "name": "mysql-vscode-orders",
+  "engine": "mysql",
+  "slug": "mysql",
+  "kind": "application",
+  "useCase": "orders"
+}
